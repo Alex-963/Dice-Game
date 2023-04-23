@@ -42,6 +42,30 @@ footer {
 
 }
 
+.btn {
+  height: 65px;
+  width: 65px;
+  border-radius: 100%;
+  background-color: #990000;
+  font-size: 1.5rem;
+  color: #ccc;
+  border: 5px solid #232931;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #BA110C;
+}
+
+.btn-container {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+
 /* @media(max-width:460px) {
   .container {
     display: grid;
