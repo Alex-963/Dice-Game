@@ -50,7 +50,8 @@ footer {
   font-size: 1.5rem;
   color: #ccc;
   border: 5px solid #232931;
-  transition: 0.3s;
+  transition: 0.2s;
+  cursor:pointer;
 }
 
 .btn:hover {
